@@ -1,0 +1,5 @@
+0. create a .env file in the project folder and add openai key with variable name "OPENAI_API_KEY" ex: OPENAI_API_KEY="sfdsfs..."
+1. create a new conda env with python=3.11.4
+2. using the anaconda cmd prompt navigate to this project folder
+3. RUN pip install -r requirements.txt
+4. run the code using "python main.py"

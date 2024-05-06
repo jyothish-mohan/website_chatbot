@@ -1,0 +1,9 @@
+fastapi==0.101.1
+openai==1.10.0
+langchain==0.1.4
+langchain-openai==0.0.5
+langchain-community==0.0.16
+uvicorn==0.23.2
+faiss-cpu==1.7.4
+websockets==11.0.3
+python-dotenv
